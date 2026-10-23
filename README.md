@@ -15,8 +15,14 @@ Explore the solar system through an interactive experience featuring the Sun, pl
 
 Navigate the solar system, select celestial bodies, and discover more about our cosmic neighborhood.
 
+### Play Online
+
+Visit the live demo: **[https://0b76d359-fd3c-4e22-8c9d-554c0117a71c.preview.qwenlm.io/]**
+
 ## 🛠️ Built With
 
-- Add your project's technologies here
+- HTML
+- CSS
+- JavaScript
 
 Made with curiosity and a love for space. 🌌
